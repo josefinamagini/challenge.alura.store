@@ -32,6 +32,28 @@ El informe final sintetiza los hallazgos a partir de los datos y gráficos gener
 - Revisa el informe final dentro del notebook, donde se explican los resultados y la recomendación.  
 
 ---
+## 📊 Resultados principales
+
+### Ingresos por tienda
+- **Tienda 1**: $1,151MM (mayor ingreso).
+- **Tienda 2**: $1,116MM.
+- **Tienda 3**: $1,098MM.
+- **Tienda 4**: $1,038MM (menor ingreso).
+<img width="479" height="253" alt="image" src="https://github.com/user-attachments/assets/6228e666-a45a-46c4-9798-a9de444d7058" />
+
+### Calificaciones promedio
+- **Tienda 1**: 3.98 ⭐  
+- **Tienda 2**: 4.04 ⭐  
+- **Tienda 3**: 4.05 ⭐ (mejor evaluada).  
+- **Tienda 4**: 4.00 ⭐  
+
+### Costos de envío promedio
+- **Tienda 1**: $26,019 (más alto).  
+- **Tienda 2**: $25,216.  
+- **Tienda 3**: $24,806.  
+- **Tienda 4**: $23,459 (más bajo). 
+
+---
 
 ## 🏆 Conclusión
 
