@@ -1,4 +1,4 @@
-# 📊 Proyecto de Análisis de Tiendas
+# 📊 Alura Store Challenge
 
 Este proyecto tiene como objetivo analizar el desempeño de cuatro tiendas con el fin de recomendar al Sr. Juan cuál es la mejor opción para vender sus productos.  
 El análisis se centra en métricas clave como **ingresos, ventas por categoría, calificación promedio de clientes, productos más y menos vendidos, y costos de envío**.  
@@ -9,19 +9,9 @@ El informe final sintetiza los hallazgos a partir de los datos y gráficos gener
 
 ## 📂 Estructura del proyecto
 
-- **/data** → Archivos de datos utilizados en el análisis (si se agregan).  
-- **/notebooks** → Notebook principal de Google Colab con el análisis completo.  
-- **/visualizations** → Gráficos generados durante el análisis.  
-- **README.md** → Documento principal del repositorio.  
-
----
-
-## 🚀 Tecnologías utilizadas
-
-- **Python 3.x**  
-- **Pandas** → Manipulación y análisis de datos.  
-- **Matplotlib / Seaborn** → Generación de gráficos y visualizaciones.  
-- **Google Colab** → Entorno de desarrollo y ejecución.  
+- **/notebooks** → Notebook principal de Google Colab con el análisis completo, data y visualiaciones.  
+- **README.md** → Documento principal del repositorio.
+- **/data** → Archivos de datos utilizados en el análisis en formato .csv.  
 
 ---
 
@@ -82,4 +72,8 @@ Tras el análisis, se recomienda al Sr. Juan **vender en la Tienda 3**, ya que:
 - **Python 3.x**  
 - **Pandas** → Manipulación y análisis de datos.  
 - **Matplotlib / Seaborn** → Generación de gráficos y visualizaciones.  
-- **Google Colab** → Entorno de desarrollo y ejecución.  
+- **Google Colab** → Entorno de desarrollo y ejecución.
+
+## 👩‍💻 Autor
+
+Proyecto desarrollado por **Josefina Magini**
